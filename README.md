@@ -16,4 +16,4 @@ These datasets are all from the Pittsburgh SNAP Census data from 2010. Each of t
 * Populations, housing (vacant/occupied homes): https://data.wprdc.org/dataset/pgh/resource/9890875b-c1d1-4e64-8fc9-a4a8dc433745
 
 # Findings:
-After adding up our scores in each of the subcategories, we reached our three winners: Arlington Heights, S
+After adding up our scores in each of the subcategories, we reached our three winners: Arlington Heights, St. Clair and Beltzhoover! Each of these neighborhoods performed well in all three categories.
